@@ -69,8 +69,7 @@ This directory contains a collection of files, functions, structs and scripts us
 
 
 ## Flowchart
-
-![flowchart]()
+![Hangman_main_pseudocode_image](https://user-images.githubusercontent.com/86312558/147593976-f6aa8475-abc6-4764-a9ad-aec9a72c8798.png)
 
 ## Resources
 

@@ -34,7 +34,7 @@ This directory contains a collection of files, functions, structs and scripts us
 	
 ## Dependences 
 	
-> [hangmants.py]](https://github.com/Imanolasolo/Hangman/blob/master/hangmants.py) --> Main file to execute and join the app	
+> [hangmants.py](https://github.com/Imanolasolo/Hangman/blob/master/hangmants.py) --> Main file to execute and join the app	
 
 > [README.md](https://github.com/Imanolasolo/Hangman/blob/master/README.md) ---> README file to show the project insights. 
 
@@ -75,11 +75,7 @@ This directory contains a collection of files, functions, structs and scripts us
 
 **Read or watch**:
 
--   [Nested while loops](https://intranet.hbtn.io/rltoken/L0Vf5XJdD7ylLOyQnzVY6Q "Nested while loops")
--   [C - Functions](https://intranet.hbtn.io/rltoken/pU9KLKlz0W2ZSSlzJsYA7w "C - Functions")
--   [Learning to Program in C (Part 06)](https://intranet.hbtn.io/rltoken/pu-exPylodWaQjU7f6KhYQ "Learning to Program in C (Part 06)") 
--   [What is the purpose of a function prototype?](https://intranet.hbtn.io/rltoken/bANgUAj_-F9_85yHxzSD6w "What is the purpose of a function prototype?")
--   [C - Header Files](https://intranet.hbtn.io/rltoken/xC6XfUoznEIJgfdP52GUIw "C - Header Files") (_stop before the “Once-Only Headers” paragraph_)
+[Link to Python personal library](https://drive.google.com/drive/folders/1plCA8BMJsAC6niM7OYje9q_nWUJ50biO?usp=sharing)
 
 
 **Read or watch** :

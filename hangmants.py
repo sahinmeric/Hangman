@@ -9,11 +9,11 @@ from hangman_pics import HANGMANPICS
 
 #define variables
 counter = 0
-chances = 6
 another_game = "Y"
 
 #Loop for repeat game options
 while (another_game == "Y" or another_game == "y"):
+    chances = 6
     #Presentation of options
     print("\033[1;32;40mWelcome to our music based hangman game")
     print("\033[1;37;40mRules:")
